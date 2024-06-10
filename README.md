@@ -14,7 +14,7 @@
     </ul>
   </div>
   <div style="flex: 1; text-align: center;">
-    <img src="https://github.com/pirezita/pirezita/assets/156138287/ebc54801-c688-4d15-a645-24d44f723b0a" alt="cutie" style="max-width: 100%;">
+    <img src="https://github.com/pirezita/pirezita/assets/156138287/ebc54801-c688-4d15-a645-24d44f723b0a" alt="cutie" style="max-width: 50%;">
   </div>
 </div>
 
@@ -22,7 +22,7 @@
 
 
 <div> 
-  <img height = "170cm" src = "https://github-readme-stats.vercel.app/api?username=Pirezita&theme=rose&show_icons=true&hide_border=false&count_private=true"/>
+  <img height = "160cm" src = "https://github-readme-stats.vercel.app/api?username=Pirezita&theme=rose&show_icons=true&hide_border=false&count_private=true"/>
   <img height = "160cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pirezita&theme=rose&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
