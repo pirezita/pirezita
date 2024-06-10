@@ -1,16 +1,21 @@
 ## ──★ ˙ sobre mim ̟🐇 !!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ela/dela + ele/dele
-- ⚡ Fun fact: ...
-
-<div> 
-  <img align = right src="https://github.com/pirezita/pirezita/assets/156138287/ebc54801-c688-4d15-a645-24d44f723b0a" alt="cutie"> ##
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>🔭 I’m currently working on ...</li>
+      <li>🌱 I’m currently learning ...</li>
+      <li>👯 I’m looking to collaborate on ...</li>
+      <li>🤔 I’m looking for help with ...</li>
+      <li>💬 Ask me about ...</li>
+      <li>📫 How to reach me: ...</li>
+      <li>😄 Pronouns: ela/dela + ele/dele</li>
+      <li>⚡ Fun fact: ...</li>
+    </ul>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/pirezita/pirezita/assets/156138287/ebc54801-c688-4d15-a645-24d44f723b0a" alt="cutie" style="max-width: 100%;">
+  </div>
 </div>
 
 ##
