@@ -23,7 +23,7 @@
 
 <div> 
   <img height = "170cm" src = "https://github-readme-stats.vercel.app/api?username=Pirezita&theme=rose&show_icons=true&hide_border=false&count_private=true"/>
-  <img height = "170cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pirezita&theme=rose&show_icons=true&hide_border=false&layout=compact"/>
+  <img height = "160cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pirezita&theme=rose&show_icons=true&hide_border=false&layout=compact"/>
 </div>
 
 <a href = "https://www.linkedin.com/in/aline-pirez" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
