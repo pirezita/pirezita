@@ -5,8 +5,8 @@
     </td>
     <td style="width: 50%; vertical-align: top;">
 
-    ## ──★ ˙ anout me ̟🐇 !!
-    │
+    ## ──★ ˙ about me ̟🐇 !!
+    
     > bio:
        - she/her, brazilian, pt/br + english + learning japanese
        - computer science student
