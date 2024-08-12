@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td style="width: 50%;">
-       <img src="https://github.com/pirezita/pirezita/blob/main/side-img/frieren.jpg" alt="Frieren" style="width: 200%; border: none;"/>
+       <img src="https://github.com/pirezita/pirezita/blob/main/side-img/cinnamoroll.gif" alt="Cinnamoroll" style="width: 100%; border: none;"/>
     </td>
     <td style="width: 50%; vertical-align: top;">
 
