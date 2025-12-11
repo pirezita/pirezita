@@ -10,12 +10,11 @@
     > bio:
        - she/her, brazilian, pt/br + english + learning japanese
        - computer science student
-       - beginner programmer
+       - front end developer
         
     > learning:
-        - Java
-        - JavaScript
-        - Python
+        - React
+        - TyperScript
         
   </tr>
 </table>
